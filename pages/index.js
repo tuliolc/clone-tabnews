@@ -1,6 +1,5 @@
 function Home() {
-    return <h1>First commit and deploy "for real", "for good"!!!
-    </h1>    
+    return <h1>Fala mano, estou fazendo o curso.dev do Felipe Deschamps. Let's bora aprender dev web pra valer!</h1>    
 }
 
 export default Home; 
